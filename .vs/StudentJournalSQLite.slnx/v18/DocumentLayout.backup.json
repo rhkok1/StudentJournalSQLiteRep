@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|c:\\users\\userr\\source\\repos\\studentjournalsqlite\\studentjournalsqlite\\windows\\journalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\windows\\journalwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|c:\\users\\userr\\source\\repos\\studentjournalsqlite\\studentjournalsqlite\\windows\\journalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\windows\\journalwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|c:\\users\\userr\\source\\repos\\studentjournalsqlite\\studentjournalsqlite\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|c:\\users\\userr\\source\\repos\\studentjournalsqlite\\studentjournalsqlite\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\studentjournalsqlite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|c:\\users\\userr\\source\\repos\\studentjournalsqlite\\studentjournalsqlite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{486BCF3D-2D4E-4E76-AD55-DD22FB974E07}|StudentJournalSQLite\\StudentJournalSQLite.csproj|solutionrelative:studentjournalsqlite\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\MainWindow.xaml",
+              "RelativeToolTip": "StudentJournalSQLite\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-07T14:46:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentJournalSQLite\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAnwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T09:11:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JournalWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Windows\\JournalWindow.xaml",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\Windows\\JournalWindow.xaml",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Windows\\JournalWindow.xaml",
+              "RelativeToolTip": "StudentJournalSQLite\\Windows\\JournalWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-08T02:38:08.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JournalWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Windows\\JournalWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\Windows\\JournalWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Windows\\JournalWindow.xaml.cs",
+              "RelativeToolTip": "StudentJournalSQLite\\Windows\\JournalWindow.xaml.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAwwNgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:50:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\App.xaml.cs",
+              "RelativeToolTip": "StudentJournalSQLite\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T06:32:27.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Database\\Db.cs",
+              "RelativeDocumentMoniker": "StudentJournalSQLite\\Database\\Db.cs",
+              "ToolTip": "C:\\Users\\userr\\source\\repos\\StudentJournalSQLite\\StudentJournalSQLite\\Database\\Db.cs",
+              "RelativeToolTip": "StudentJournalSQLite\\Database\\Db.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T09:40:27.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
